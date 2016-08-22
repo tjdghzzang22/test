@@ -5,6 +5,7 @@ public class zzzz {
 		//test 1
 		System.out.println("Hi world !!");
 		
-		
+		//test 2
+		System.out.println("Bye world !!");
 	}
 }
