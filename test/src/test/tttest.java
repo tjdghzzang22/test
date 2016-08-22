@@ -4,6 +4,6 @@ public class tttest {
 	//zzzzzzzzz
 	//zzzzzzzzzzzzzzzzzzz
 	public void hi(){
-		System.out.println("hihihi111");
+		System.out.println("hihihi1111");
 	}
 }
