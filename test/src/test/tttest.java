@@ -5,5 +5,7 @@ public class tttest {
 	//zzzzzzzzzzzzzzzzzzz
 	public void hi(){
 		System.out.println("hihihi1111");
+		System.out.println("hihihi222");
 	}
 }
+//https://github.com/tjdghzzang22/test.git
